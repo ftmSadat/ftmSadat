@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Fatemeh
+#👋 Hi, I’m Fatemeh
+
+
 - 🌱 I’m currently learning more about frameworks like Nuxt and Vue.
 - 💞️ I’m looking to collaborate on open-source projects and initiatives that focus on education and learning.
-- ⚡ I live with coffee and music.
 
 <!---
 ftmSadat/ftmSadat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
