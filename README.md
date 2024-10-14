@@ -1,4 +1,4 @@
-#👋 Hi, I’m Fatemeh
+# 👋 Hi, I’m Fatemeh
 
 
 - 🌱 I’m currently learning more about frameworks like Nuxt and Vue.
